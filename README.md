@@ -1,457 +1,369 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     GITHUB PROFILE README — Yogesh Wandhare · AI/ML Engineer
+     Futuristic Dark Theme · Neon Blue/Purple · Premium Design
+     ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ════ ANIMATED HERO BANNER ════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,6,11,12,30&height=220&section=header&text=YOGESH%20WANDHARE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Innovator&descSize=17&descAlignY=62&descColor=00f5ff" width="100%"/>
+<!-- ─── ANIMATED HEADER BANNER ─── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh%20Wandhare&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58&descColor=00D9FF" width="100%"/>
 
-<!-- ════ TYPING ANIMATION ════ -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2400&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%5BSYS%5D+Initializing+profile+of+Yogesh+Wandhare...;%5BOK%5D++AI+%2F+ML+Engineer+%E2%80%94+Systems+Online+%F0%9F%9F%A2;%5BOK%5D++Data+Scientist+%E2%80%94+Models+Loaded+%F0%9F%9F%A2;%5BOK%5D++Deep+Learning+Researcher+%E2%80%94+Active+%F0%9F%9F%A2;%5B**%5D+Designing+intelligent+systems+powered+by+data+%E2%9A%A1" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- ════ TAGLINE ════ -->
-```
-⚡  "I don't just analyze data — I make it think."  ⚡
-```
-
-<!-- ════ STATUS BADGES ════ -->
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yogeshwandhare&style=for-the-badge&color=0a192f&label=NEURAL+LINKS&labelColor=00f5ff)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=for-the-badge&labelColor=0a192f)
-&nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-AI%2FML_ENGINEERING-bf5af2?style=for-the-badge&labelColor=0a192f)
-
-<!-- ════ SOCIAL LINKS ════ -->
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwandhare)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@example.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yogeshwandhare.dev)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yogeshwandhare)
-&nbsp;
-[![HuggingFace](https://img.shields.io/badge/HF_SPACES-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yogeshwandhare)
+<!-- ─── TYPING ANIMATION ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Yogesh+Wandhare;AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Deep+Learning+Researcher+%F0%9F%A7%A0;NLP+%26+Computer+Vision+Builder;Turning+Data+into+Intelligence+%E2%9A%A1" alt="Typing SVG"/>
 
 <br/>
+
+<!-- ─── TAGLINE ─── -->
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/>
+  &nbsp;<em>Turning raw data into intelligent solutions that shape the future</em>&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/>
+</h3>
+
+<br/>
+
+<!-- ─── PROFILE VIEWS + SOCIAL BADGES ─── -->
+<img src="https://komarev.com/ghpvc/?username=yogeshwandhare&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwandhare)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@example.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yogeshwandhare.dev)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yogeshwandhare)
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🧠  ABOUT ME                                    -->
+<!-- ─────────────────────────────────────────────── -->
 
-## `[01]` 🧠 SYSTEM IDENTIFICATION
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="AI Brain GIF"/>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="210" alt="Neural Net GIF"/>
+## 🧠 About Me
 
-```yaml
-# OPERATOR PROFILE ─────────────────────────────────────────
-NAME:        Yogesh Wandhare
-DESIGNATION: AI/ML Engineer & Data Scientist
-LOCATION:    India 🇮🇳
-TIMEZONE:    IST (UTC+5:30)
+```python
+class YogeshWandhare:
+    def __init__(self):
+        self.name        = "Yogesh Wandhare"
+        self.role        = "AI/ML Engineer & Data Scientist"
+        self.location    = "India 🇮🇳"
+        self.passion     = ["Machine Learning", "Deep Learning",
+                            "NLP", "Computer Vision"]
+        self.currently   = "Building ML pipelines & AI dashboards"
+        self.learning    = ["LLMs", "Diffusion Models", "MLOps"]
+        self.fun_fact    = "I teach machines to learn so I learn faster 🤖"
 
-CORE_PROTOCOL:
-  - Transform raw data → actionable intelligence
-  - Build production ML systems that scale
-  - Bridge research and real-world deployment
+    def mission(self) -> str:
+        return "Transform data → insight → intelligent action"
 
-CURRENT_OBJECTIVE:
-  → Building LLM-powered RAG pipelines
-  → Fine-tuning diffusion models for CV tasks
-  → Mastering MLOps (Kubernetes + MLflow)
-
-LEARNING_QUEUE:
-  [████████░░] LLMOps & Prompt Engineering
-  [███████░░░] Diffusion Models (DDPM/DDIM)
-  [██████░░░░] Rust for AI inference speed
-
-FUN_FACT: "I automate my life with Python
-           so I can spend more time automating
-           other things with Python." 🤖
+me = YogeshWandhare()
+print(me.mission())
+# → "Transform data → insight → intelligent action"
 ```
+
+- 🔭 **Currently building:** Production-grade ML prediction models & data-driven dashboards
+- 🌱 **Learning:** Large Language Models (LLMs), MLOps, Diffusion Models
+- 💡 **Interests:** Deep Learning · NLP · Computer Vision · Generative AI · Data Storytelling
+- 🤝 **Open to:** AI/ML collaborations, research projects & open-source contributions
+- 📫 **Reach me:** [yogesh@example.com](mailto:yogesh@example.com)
 
 <br clear="right"/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🛠️  TECH STACK                                  -->
+<!-- ─────────────────────────────────────────────── -->
 
-## `[02]` ⚡ TECH MATRIX
+## 🛠️ Tech Stack & Tools
 
-<details open>
-<summary><b>🐍 Languages & Query Systems</b></summary>
-<br/>
+### 💻 Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>🤖 AI / ML / Deep Learning Frameworks</b></summary>
-<br/>
+### 🤖 AI / ML / Deep Learning
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00D8FF?style=for-the-badge&logo=chainlink&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>📊 Data Engineering & Visualization</b></summary>
-<br/>
+### 📊 Data & Visualization
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
-</details>
 
-<details open>
-<summary><b>🛠️ DevOps, Cloud & Infrastructure</b></summary>
-<br/>
+### ⚙️ Tools & Infrastructure
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-</div>
-</details>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-## `[03]` 🚀 MISSION LOGS — FEATURED PROJECTS
-
-> **Classified Intelligence Projects** — Each solving a real problem with ML precision.
-
----
-
-### 🧬 `PROJECT ALPHA` — DocuBot: RAG Intelligence Engine
-> **Problem:** Enterprises lose hours searching through thousands of PDFs.
-> **Solution:** LangChain-powered RAG chatbot — ask anything, get precise answers instantly.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00D8FF?style=flat-square&logo=chainlink&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-&nbsp; **[→ View Repository](https://github.com/yogeshwandhare/docubot)**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
-### 📈 `PROJECT BETA` — StockSense: LSTM + Transformer Forecaster
-> **Problem:** Market volatility makes equity prediction notoriously unreliable.
-> **Solution:** Hybrid LSTM + Transformer attention model achieving sub-3% MAPE with live data.
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🚀  FEATURED PROJECTS                           -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 🚀 Featured AI/ML Projects
 
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-&nbsp; **[→ View Repository](https://github.com/yogeshwandhare/stocksense)**
+| # | 🔬 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|---|-----------|----------------|----------|----|
+| 📊 | **Sales Intelligence Dashboard** | Analyzed 2M+ records to surface revenue trends and churn signals using interactive Plotly dashboards | Python · Pandas · Plotly · Dash | [Repo →](https://github.com/yogeshwandhare/sales-dashboard) |
+| 🤖 | **CropYield Predictor** | End-to-end ML pipeline predicting crop yields with 91% accuracy using soil + weather data | Scikit-learn · XGBoost · FastAPI | [Repo →](https://github.com/yogeshwandhare/crop-yield-ml) |
+| 💬 | **DocuBot — NLP Q&A Assistant** | RAG-based chatbot for PDF document Q&A using LangChain + FAISS vector search | LangChain · OpenAI · FAISS · Streamlit | [Repo →](https://github.com/yogeshwandhare/docubot) |
+| 👁️ | **FaceGuard — CV Security System** | Real-time face recognition attendance system with anti-spoofing (99.2% accuracy) | OpenCV · DeepFace · PyTorch · OpenVINO | [Repo →](https://github.com/yogeshwandhare/faceguard) |
+| 📈 | **StockSense — LSTM Forecaster** | Multivariate LSTM model for stock price prediction with Transformer attention layers | PyTorch · yfinance · Plotly · Docker | [Repo →](https://github.com/yogeshwandhare/stocksense) |
 
 </div>
 
 ---
 
-### 👁️ `PROJECT GAMMA` — FaceGuard: Computer Vision Security
-> **Problem:** Traditional access systems are slow, error-prone, and spoofable.
-> **Solution:** Real-time face recognition with liveness detection — **99.2% accuracy** in production.
+<!-- ─────────────────────────────────────────────── -->
+<!-- 📈  GITHUB STATS                                -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-&nbsp; **[→ View Repository](https://github.com/yogeshwandhare/faceguard)**
-
-</div>
-
----
-
-### 🌾 `PROJECT DELTA` — CropYield Predictor
-> **Problem:** Farmers lack data-driven yield optimization tools.
-> **Solution:** XGBoost + ensemble pipeline on 50K+ samples — **91.4% accuracy**, REST API deployed.
-
-<div align="center">
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-&nbsp; **[→ View Repository](https://github.com/yogeshwandhare/cropyield)**
-
-</div>
-
----
-
-### 📊 `PROJECT EPSILON` — Sales Intelligence Dashboard
-> **Problem:** Business teams drowning in raw CSV exports with zero actionable insight.
-> **Solution:** Processing 2M+ records into live interactive dashboards with ML-powered churn prediction.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-00BCD4?style=flat-square&logo=plotly&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-&nbsp; **[→ View Repository](https://github.com/yogeshwandhare/sales-dashboard)**
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-## `[04]` 📊 SYSTEM METRICS — GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yogeshwandhare&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=030d1a&title_color=00f5ff&icon_color=bf5af2&text_color=c9d1d9&ring_color=00f5ff&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshwandhare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwandhare&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=030d1a&title_color=00f5ff&text_color=c9d1d9&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwandhare&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshwandhare&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888&border_radius=10" alt="GitHub Streak" width="55%"/>
+
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🧪  ML FOCUS AREAS                              -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 🧪 Machine Learning Focus
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                      ML EXPERTISE MAP                               │
+├────────────────────┬────────────────────┬───────────────────────────┤
+│  📐 FOUNDATIONS    │  🧠 DEEP LEARNING  │  🔧 ENGINEERING           │
+├────────────────────┼────────────────────┼───────────────────────────┤
+│ Supervised         │ CNNs / ResNet      │ Feature Engineering       │
+│ Unsupervised       │ RNNs / LSTMs       │ Model Evaluation          │
+│ Reinforcement      │ Transformers       │ Hyperparameter Tuning     │
+│ Ensemble Methods   │ GANs / Diffusion   │ Cross-Validation          │
+│ Bayesian Methods   │ Attention Mech.    │ Pipeline Automation       │
+├────────────────────┼────────────────────┼───────────────────────────┤
+│  💬 NLP            │  👁️ COMPUTER VISION │  📦 MLOPS                 │
+├────────────────────┼────────────────────┼───────────────────────────┤
+│ Text Classification│ Object Detection   │ MLflow Tracking           │
+│ Named Entity Rec.  │ Image Segmentation │ Model Versioning          │
+│ Sentiment Analysis │ Face Recognition   │ Docker Containers         │
+│ RAG / LLM Apps     │ OCR & Document AI  │ API Deployment (FastAPI)  │
+│ Embeddings / FAISS │ Video Analytics    │ Cloud (AWS SageMaker)     │
+└────────────────────┴────────────────────┴───────────────────────────┘
+```
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🌱  CURRENTLY LEARNING                          -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/Large_Language_Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=black)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-F472B6?style=for-the-badge&logo=stability-ai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_for_AI-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🏆  ACHIEVEMENTS & CERTIFICATIONS              -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yogeshwandhare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Issuer | 📅 Year | 🔗 |
+|-----------------|-----------|---------|-----|
+| 🤖 Machine Learning Specialization | Stanford / Coursera | 2024 | [Verify](https://coursera.org) |
+| 🧠 Deep Learning Specialization (5 courses) | deeplearning.ai | 2024 | [Verify](https://coursera.org) |
+| 💬 Natural Language Processing | deeplearning.ai | 2023 | [Verify](https://coursera.org) |
+| ☁️ AWS Certified ML — Specialty | Amazon Web Services | 2023 | [Verify](https://aws.amazon.com) |
+| 📊 Google Data Analytics Professional | Google | 2023 | [Verify](https://coursera.org) |
+| 🏅 Kaggle ML Competition — Top 8% | Kaggle | 2024 | [View](https://kaggle.com) |
+
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 📉  ACTIVITY GRAPH                              -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 📉 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshwandhare&bg_color=0D1117&color=00D9FF&line=7C3AED&point=F472B6&area=true&area_color=7C3AED&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 📌  PINNED REPOS HIGHLIGHT                      -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 📌 Pinned Highlights
+
+<div align="center">
+
+[![DocuBot](https://github-readme-stats.vercel.app/api/pin/?username=yogeshwandhare&repo=docubot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10)](https://github.com/yogeshwandhare/docubot)
+&nbsp;
+[![StockSense](https://github-readme-stats.vercel.app/api/pin/?username=yogeshwandhare&repo=stocksense&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10)](https://github.com/yogeshwandhare/stocksense)
+
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🌐  CONNECT WITH ME                             -->
+<!-- ─────────────────────────────────────────────── -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yogeshwandhare" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:yogesh@example.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://yogeshwandhare.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://kaggle.com/yogeshwandhare" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-View_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/yogeshwandhare" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshwandhare&theme=highcontrast&hide_border=true&background=030d1a&stroke=00f5ff&ring=bf5af2&fire=ff453a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=6e7b8b&border_radius=12" width="58%"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+&nbsp;
+<em>Open to <strong>AI/ML roles</strong>, <strong>research collaborations</strong>, and <strong>data science freelancing</strong>. Let's build something intelligent together! 🤝</em>
 
 </div>
 
 ---
 
-## `[05]` 📈 NEURAL ACTIVITY — CONTRIBUTION GRAPH
+<!-- ─────────────────────────────────────────────── -->
+<!-- ✨  FUN SECTION                                  -->
+<!-- ─────────────────────────────────────────────── -->
+
+## ✨ Fun Corner
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshwandhare&bg_color=030d1a&color=00f5ff&line=bf5af2&point=00ff88&area=true&area_color=0a192f&hide_border=true&radius=8&custom_title=Contribution+Neural+Map" width="96%"/>
+> 🤖 *"I teach machines to learn so I can learn even faster."*
+>
+> 🧠 *"In God we trust. All others bring data."* — W. Edwards Deming
+>
+> ⚡ *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 <br/>
-
-<!-- Snake animation — requires GitHub Action setup (see below) -->
-<img src="https://raw.githubusercontent.com/yogeshwandhare/yogeshwandhare/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="92%"/>
-
-</div>
-
-> 💡 **Snake Setup:** Create `.github/workflows/snake.yml` → uses `Platane/snk` action → commits SVG to `output` branch
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## `[06]` 🧪 AI/ML EXPERTISE MATRIX
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    COMPETENCY HEATMAP v2.0                          ║
-╠═══════════════════════╦══════════════════════╦════════════════════════╣
-║  SUPERVISED LEARNING  ║  UNSUPERVISED ML     ║  DEEP LEARNING        ║
-║  ─────────────────    ║  ────────────────    ║  ─────────────────    ║
-║  Regression/Class.    ║  K-Means / DBSCAN    ║  CNNs / ResNets       ║
-║  Ensemble Methods     ║  PCA / t-SNE         ║  RNNs / LSTMs         ║
-║  SVM / XGBoost        ║  Autoencoders        ║  Transformers         ║
-║  Feature Selection    ║  Anomaly Detection   ║  Attention Mech.      ║
-╠═══════════════════════╬══════════════════════╬════════════════════════╣
-║  NLP & LLMs           ║  COMPUTER VISION     ║  ML ENGINEERING       ║
-║  ─────────────────    ║  ────────────────    ║  ─────────────────    ║
-║  RAG Architectures    ║  Object Detection    ║  Feature Eng.         ║
-║  Fine-Tuning BERT     ║  Image Segment.      ║  Hyperparameter Opt   ║
-║  Sentiment Analysis   ║  Face Recognition    ║  Cross-Validation     ║
-║  Text Embeddings      ║  OCR / Document AI   ║  MLflow / Docker      ║
-╚═══════════════════════╩══════════════════════╩════════════════════════╝
-```
-
-| Domain | Signal Strength |
-|:---|:---|
-| 🐍 Python & Data Engineering | `████████████░░` Expert |
-| 🤖 Machine Learning | `██████████████` Advanced |
-| 🧠 Deep Learning | `████████████░░` Advanced |
-| 💬 NLP & LLMs | `██████████░░░░` Intermediate+ |
-| 👁️ Computer Vision | `█████████░░░░░` Intermediate |
-| 📦 MLOps & Deployment | `████████░░░░░░` Intermediate |
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-## `[07]` 🏆 ACHIEVEMENT REGISTRY
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yogeshwandhare&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="96%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| CREDENTIAL | ISSUER | YEAR | STATUS |
-|:---|:---|:---:|:---:|
-| 🎓 Machine Learning Specialization | Stanford / Coursera | 2024 | ✅ |
-| 🧠 Deep Learning Specialization (5-course) | deeplearning.ai | 2024 | ✅ |
-| 💬 NLP Specialization | deeplearning.ai | 2024 | ✅ |
-| ☁️ AWS Certified ML — Specialty | Amazon Web Services | 2023 | ✅ |
-| 📊 Google Data Analytics Professional | Google / Coursera | 2023 | ✅ |
-| 🏅 Kaggle Competition — Top 8% | Kaggle | 2024 | 🥈 |
-| 🔥 Hackathon Winner — AI Track | Smart India Hackathon | 2023 | 🥇 |
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-## `[08]` 🔨 CURRENTLY BUILDING
 
 ```python
-# ACTIVE DEVELOPMENT STACK ──────────────────────────────────
-active_projects = {
-    "NeuralForge": {
-        "desc": "No-code ML model builder with AutoML + drag-drop UI",
-        "stack": ["Python", "FastAPI", "React", "MLflow"],
-        "status": "🔄 In Development (v0.4)",
-        "eta": "Q2 2025"
-    },
-    "VisionLens": {
-        "desc": "Real-time multi-object tracking for surveillance",
-        "stack": ["YOLOv8", "OpenCV", "PyTorch", "Redis"],
-        "status": "🔄 In Development (v0.2)",
-        "eta": "Q3 2025"
-    },
-    "DataSentinel": {
-        "desc": "ML pipeline monitoring with automated drift detection",
-        "stack": ["MLflow", "Evidently", "Docker", "Grafana"],
-        "status": "🧪 Prototyping",
-        "eta": "Q4 2025"
-    }
-}
+while True:
+    eat()
+    code_ml_models()
+    debug_gradients()
+    drink_coffee()
+    if epoch % 100 == 0:
+        sleep()   # optional 😅
+    # loss decreasing... model improving... life is good ✅
 ```
-
----
-
-## `[09]` 📌 PINNED INTELLIGENCE
-
-<div align="center">
-
-[![DocuBot](https://github-readme-stats.vercel.app/api/pin/?username=yogeshwandhare&repo=docubot&theme=chartreuse-dark&hide_border=true&bg_color=030d1a&title_color=00f5ff&icon_color=bf5af2&text_color=c9d1d9&border_radius=12)](https://github.com/yogeshwandhare/docubot)
-&nbsp;&nbsp;
-[![StockSense](https://github-readme-stats.vercel.app/api/pin/?username=yogeshwandhare&repo=stocksense&theme=chartreuse-dark&hide_border=true&bg_color=030d1a&title_color=00f5ff&icon_color=bf5af2&text_color=c9d1d9&border_radius=12)](https://github.com/yogeshwandhare/stocksense)
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
-## `[10]` 🌐 CONNECT TO NETWORK
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/INITIATE_CONNECTION-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwandhare)
-&nbsp;
-[![Email](https://img.shields.io/badge/SEND_SIGNAL-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@example.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/VIEW_DASHBOARD-Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yogeshwandhare.dev)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/COMPETE-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yogeshwandhare)
-
-<br/><br/>
-
-> 🤝 Open to **AI/ML Engineering** roles · **Research Collaborations** · **Data Science Consulting**
-> 📍 Available for **Remote** and **Hybrid** opportunities globally
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## `[11]` ⚡ SYSTEM LOG — FUN TERMINAL
-
-<div align="center">
-
-```bash
-$ whoami
-yogesh_wandhare  # AI/ML Engineer
-
-$ cat philosophy.txt
-"I don't just analyze data — I make it think."
-"Every model is a hypothesis about the world."
-"The best ML pipeline is the one that ships."
-
-$ python3 -c "import life; life.automate(everything=True)"
-[████████████████████] 100% — Automation complete ✅
-[SYS] Warning: Too much free time detected.
-[SYS] Starting next_ml_project.py...
-
-$ git log --oneline
-a7f3c1b  feat: Added attention to morning coffee routine
-b2e9d4a  fix: Resolved NaN in work-life balance
-c1f8a2d  refactor: Replaced meetings with async updates
-d9e7b3c  chore: Automated 80% of daily tasks
-e4c2f1a  init: Born with a curiosity for patterns 🧬
-```
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=030d1a&textColor=00f5ff&qColor=bf5af2&aColor=00ff88" alt="Dev Joke"/>
-
-</div>
-
----
-
-<!-- ════ FOOTER ════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,12,30&height=130&section=footer&animation=twinkling&desc=Thanks+for+visiting!+Star+a+repo+if+it+helped+%E2%AD%90&descSize=14&descColor=00f5ff&descAlignY=65" width="100%"/>
 
 <br/>
 
-![](https://img.shields.io/badge/PROFILE_ONLINE-SINCE_2022-00f5ff?style=flat-square&labelColor=030d1a)
-&nbsp;
-![](https://img.shields.io/badge/BUILT_WITH-%E2%9D%A4%EF%B8%8F_%2B_%E2%98%95_%2B_%F0%9F%A7%A0-bf5af2?style=flat-square&labelColor=030d1a)
-&nbsp;
-![](https://img.shields.io/badge/LAST_SYNC-2025-00ff88?style=flat-square&labelColor=030d1a)
+### 😄 Random ML Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="ML Joke"/>
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════════
-     [EOF] YOGESH WANDHARE · GITHUB PROFILE README v3.0
-     Built with precision. Deployed with purpose. 🚀
-     ════════════════════════════════════════════════════════════ -->
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<br/>
+
+**⭐ If you find my work useful, please consider starring my repos!**
+
+Made with 🧠 + ☕ + 🔥 by **Yogesh Wandhare** &nbsp;|&nbsp; Last updated: 2025
+
+</div>
