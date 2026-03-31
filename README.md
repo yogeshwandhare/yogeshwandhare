@@ -69,7 +69,7 @@ print(me.mission())
 - 🌱 **Learning:** Large Language Models (LLMs), MLOps, Diffusion Models
 - 💡 **Interests:** Deep Learning · NLP · Computer Vision · Generative AI · Data Storytelling
 - 🤝 **Open to:** AI/ML collaborations, research projects & open-source contributions
-- 📫 **Reach me:** [yogesh@example.com](mailto:yogesh@example.com)
+- 📫 **Reach me:** [yogeshwandharee@gmail.com](mailto:yogeshwandharee@gmail.com)
 
 <br clear="right"/>
 
